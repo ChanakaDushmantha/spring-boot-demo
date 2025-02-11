@@ -9,6 +9,7 @@ This service can manage following features
 - crud operation
 - exception handling
 - date formatter
+- unit test cases
 
 ## ER Diagram
 
